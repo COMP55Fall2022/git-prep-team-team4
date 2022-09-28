@@ -1,8 +1,8 @@
+//osbaldo was hereeee
+/// hereeeeeee
 import acm.graphics.GImage;
 import acm.graphics.GLabel;
 import acm.program.GraphicsProgram;
-
-//osbaldo was hereeee
 
 public class SimplePicture extends GraphicsProgram {
 	private static final String ROBOT_PNG = "robot.png";
@@ -11,7 +11,7 @@ public class SimplePicture extends GraphicsProgram {
 	public void init() {
 		setSize(SIZE, SIZE);
 	}
-	/// hereeeeeee
+	
 	public void run() {
 		GImage robot = new GImage(ROBOT_PNG, 200, 200);
 		add(robot);

@@ -1,4 +1,4 @@
-//jacob was hereeee
+//manu was hereeee
 /// hereeeeeee
 import acm.graphics.GImage;
 import acm.graphics.GLabel;

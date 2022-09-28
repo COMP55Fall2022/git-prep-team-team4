@@ -12,7 +12,7 @@ public class SimplePicture extends GraphicsProgram {
 	public void run() {
 		GImage robot = new GImage("robot.png", 200, 200);
 		add(robot);
-		GLabel label = new GLabel("How I feel when using github hackslash", 200, 400);
+		GLabel label = new GLabel("Did you guys know that in Cars 2 there's a higher kill count than any of the Saw movies google it it's true. This is why Cars 2 should be PG-13 and- (1/80)", 200, 400);
 		add(label);
 	}
 	

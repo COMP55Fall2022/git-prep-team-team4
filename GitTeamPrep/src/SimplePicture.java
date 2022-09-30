@@ -15,8 +15,15 @@ public class SimplePicture extends GraphicsProgram {
 	public void run() {
 		GImage robot = new GImage(ROBOT_PNG, 200, 200);
 		add(robot);
-		GLabel label = new GLabel("Did you guys know that in Cars 2 there's a higher kill count than any of the Saw movies google it it's true. This is why Cars 2 should be PG-13 and- (1/80)", 200, 400);
+		GLabel label = new GLabel("According to all known laws of aviation, there is no way a bee should be able to fly.\r\n"
+				+ "Its wings are too small to get its fat little body off the ground.\r\n"
+				+ "The bee, of course, flies anyway because bees don't care what humans think is impossible.\r\n"
+				+ "Yellow, black. Yellow, black. Yellow, black. Yellow, black.\r\n"
+				+ "Ooh, black and yellow!\r\n"
+				+ "Let's shake it up a little.\r\n"
+				+ "Barry! Breakfast is ready!", 200, 400);
 		add(label);
+		
 		
 		
 		

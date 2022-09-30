@@ -47,6 +47,6 @@ public class SimplePicture extends GraphicsProgram {
 	
 	public static void main(String[] args) {
 		new SimplePicture().start();
-		// This is my line, no one can take it from me
+		// This is my line, no one can take it from mes
 	}
 }

@@ -1,5 +1,5 @@
 //You know who else commits to commiting???
-///yoyoma 
+///my dad. Yea you thought it was going to be my Mom well guess what not everything goes to plan. 
 import acm.graphics.GImage;
 import acm.graphics.GLabel;
 import acm.program.GraphicsProgram;

@@ -43,7 +43,7 @@ public class SimplePicture extends GraphicsProgram {
 		}
 	// osbaldo was here
 	}
-
+// hgofbgabgBGKRLGBBGAKBGIDFBIDOGBNIRNIOTG8562OITBHQOITBI5OREGHOIW54GIOANRIioggiosrbgiowneroignoriegboihgioragbioerhgioaregbhiarhgioarhgioafdhaigfidongrifnrgewin0ongre
 	
 	public static void main(String[] args) {
 		new SimplePicture().start();

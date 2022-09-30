@@ -21,7 +21,7 @@ public class SimplePicture extends GraphicsProgram {
 				+ "Yellow, black. Yellow, black. Yellow, black. Yellow, black.\r\n"
 				+ "Ooh, black and yellow!\r\n"
 				+ "Let's shake it up a little.\r\n"
-				+ "Barry! Breakfast is ready!", 200, 400);
+				+ "Barry! Breakfast is ready! bees movies was the best movie ", 200, 400);
 		add(label);
 	}
 	// osbaldo was here

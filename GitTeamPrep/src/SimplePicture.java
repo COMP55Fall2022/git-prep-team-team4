@@ -5,7 +5,7 @@ import acm.graphics.GLabel;
 import acm.program.GraphicsProgram;
 
 public class SimplePicture extends GraphicsProgram {
-	private static final String robots_png = "robot.png";
+	private static final String robotS_png = "robot.png";
 	public static int SIZE = 700;
 	
 	public void init() {
@@ -13,7 +13,7 @@ public class SimplePicture extends GraphicsProgram {
 	}
 	
 	public void run() {
-		GImage robot = new GImage(robots_png, 200, 200);
+		GImage robot = new GImage(robotS_png, 200, 200);
 		add(robot);
 		GLabel label = new GLabel("According to all known laws of aviation, there is no way a bee should be able to fly.\r\n"
 				+ "Its wings are too small to get its fat little body off the ground.\r\n"
@@ -47,6 +47,6 @@ public class SimplePicture extends GraphicsProgram {
 	
 	public static void main(String[] args) {
 		new SimplePicture().start();
-		// This is my line, no one can take it from mes
+		//Say whatever you want now
 	}
 }

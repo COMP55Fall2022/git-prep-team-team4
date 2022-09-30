@@ -17,7 +17,11 @@ public class SimplePicture extends GraphicsProgram {
 		add(robot);
 		GLabel label = new GLabel("Did you guys know that in Cars 2 there's a higher kill count than any of the Saw movies google it it's true. This is why Cars 2 should be PG-13 and- (1/80)", 200, 400);
 		add(label);
+		
+		
+		
 		// Jacob Bejarano's comment here
+
 	}
 	
 	public static void main(String[] args) {

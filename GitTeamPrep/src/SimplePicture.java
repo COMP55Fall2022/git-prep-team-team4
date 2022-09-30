@@ -40,12 +40,13 @@ public class SimplePicture extends GraphicsProgram {
 				+ "Yeah what do you figure out Wayne huh right Hansel good maybe if. I build some walls it might funnel my loneliness ooh where did I get the cloth oh whatever can I build another one can, I build one more of those bad boys up here please really please please fine hey in Wayne .\r\n"
 				+ "Duane god damn it Wayne oh oh oh I kill all I killed Wayne I don't think. I was supposed to kill Wayne oh I don't I don't think anything likes me killing Wayne whoo something tells me that might have been a bad idea whoo, I shouldn't killed Wayne oh no now that I think about a Wayne might have been my only friend in this horrible survival circumstance my, only friend is trying to kill me how appropriate oh well whatever wheezes hello get, me out of the okay all right then so anyway I think that's about the long and the short of the. Game I don't know what the end goal is just other than survival no much else to do so, I'm gonna I'm gonna taught this guy you, know what I'm so lonely maybe I'm just gonna hug it out with the bro oh whoa hey put. An anti climactic end well anyway so that was raft this game is available on it co and it's not bad there's some potential here it's a bit too simplified though I think it needs more elements to it but. I like the concept the concept is interesting so long as you can make the, threat kind of incrementally get better I feel like there needs, to be a weather system that needs to be like Crysis is there need to be like you know other stuff, more dangerous more sharks and all that stuff but either way it's pretty cool so thank you everybody so. Much for watching let me know what you thought of it down the comments below as always I will see you in the next video bye ", 200, 400);
 >>>>>>> branch 'main' of https://github.com/COMP55Fall2022/git-prep-team-team4.git
-	}
+		}
 	// osbaldo was here
 	}
 
 	
 	public static void main(String[] args) {
 		new SimplePicture().start();
+		// This is my line, no one can take it from me
 	}
 }

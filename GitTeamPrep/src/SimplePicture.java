@@ -1,4 +1,4 @@
-//You know who else commits to commiting manu does???
+//I'm the hackslash fam
 ///my dad. Yea you thought it was going to be my Mom well guess what not everything goes to plan. life sucks 
 import acm.graphics.GImage;
 import acm.graphics.GLabel;
